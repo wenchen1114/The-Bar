@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/barRoom-Wen.unity
+    guid: 47e2851a2e091ab42992fd1530f3592f
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 398dd5a301a44bc4d9aefad3c4d1f625,
       type: 2}
