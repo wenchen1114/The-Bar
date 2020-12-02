@@ -676,6 +676,7 @@ PlayerSettings:
   scriptingDefineSymbols:
     1: BOLT_CLOUD
     7: BOLT_CLOUD
+    13: BOLT_CLOUD
   platformArchitecture: {}
   scriptingBackend:
     Standalone: 1
